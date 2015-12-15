@@ -17,3 +17,5 @@ override['mysql']['bind_address'] = '127.0.0.1'
 override['mysql']['allow_remote_root'] = true
 override['mysql']['remove_anonymous_users'] = true
 override['mysql']['remove_test_database'] = true
+
+override['firefox']['version'] = '39.0'
